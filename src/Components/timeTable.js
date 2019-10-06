@@ -29,7 +29,7 @@ class TimeTable extends Component {
   render() {
     return (
       <Row
-        style={{ backgroundColor: "white", marginLeft: "10px" }}
+        style={{ backgroundColor: "white" }}
         height={"100%"}
       >
         <Row>

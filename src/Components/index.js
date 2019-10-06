@@ -156,7 +156,7 @@ widthControl(){
                   backgroundSize:"300px",
                   backgroundPositionX:"100%",
                   backgroundRepeat:"no-repeat",
-                  width: "92%",
+                  width: "100%",
                   minHeight: "300px",
                   backgroundColor: "white",
                   marginBottom: "10px"
@@ -209,10 +209,11 @@ widthControl(){
               </Row>
 
               <div style={{  marginTop: "30px" }} className="GridCol">
-                <Col span={18} className="GridCol">
+                <Col span={17} className="GridCol">
                   <Announcements />
                 </Col>
-                <Col span={6}  className="GridCol"
+                <Col span={1}></Col>
+                <Col span={6}  
                 >
                   <TimeTable />
                 </Col>
