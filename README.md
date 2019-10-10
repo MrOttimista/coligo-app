@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Name
+    Coligo Home Page
+
+## Description
+    This app is simple homepage. Some sections needs some fake data which is generated in Api folder.
+    this app contains :
+        Api folder: where the fake data is generated
+        Actions folder: where the actions that controls the reducers is created like:(Log in // Log out)
+        Components folder:for all the component (the index component is the container)
+        Reducers folder: for all the reducers.
+ 
+
 
 ## Available Scripts
 
@@ -13,7 +24,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ### `npm test`
-
+ 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
